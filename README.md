@@ -20,3 +20,5 @@ Minted NFT #2
 Contract deployed to: 0xa87cCCb86878F196Dd17f7F85eF43B4982f808c5
 Minted NFT #1
 Minted NFT #2
+
+Contract deployed to: 0xF27488Ca9D6119C50051957417E3ffe47f16eE2b

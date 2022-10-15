@@ -12,3 +12,7 @@ npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
 # buildspace-hello-nfts
+
+Contract deployed to: 0x9Aa67BE4B8631ED24bb81BF433F5eBDA5701D709
+Minted NFT #1
+Minted NFT #2

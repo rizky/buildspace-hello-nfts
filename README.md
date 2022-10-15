@@ -16,3 +16,7 @@ npx hardhat run scripts/deploy.ts
 Contract deployed to: 0x9Aa67BE4B8631ED24bb81BF433F5eBDA5701D709
 Minted NFT #1
 Minted NFT #2
+
+Contract deployed to: 0xa87cCCb86878F196Dd17f7F85eF43B4982f808c5
+Minted NFT #1
+Minted NFT #2
